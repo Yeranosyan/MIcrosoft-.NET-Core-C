@@ -12,3 +12,4 @@
 /Users/yeranosyan/Gagik Yeranosyan/Programming/Microsoft/Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.pdb
 /Users/yeranosyan/Gagik Yeranosyan/Programming/Microsoft/Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.genruntimeconfig.cache
 /Users/yeranosyan/Gagik Yeranosyan/Programming/Microsoft/Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/ref/Starter.dll
+/Users/yeranosyan/Gagik Yeranosyan/Programming/Microsoft/Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.sourcelink.json
