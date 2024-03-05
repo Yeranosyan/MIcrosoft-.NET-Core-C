@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "06kul3MAxDOEXiA+tZdtRB5aEgw6mRqbmcrysbXq70Bszz5azWCnRNi84SkjYBl7/aWvd6ciJgtL+31NW6OAoA==",
+  "success": true,
+  "projectFilePath": "/Users/yeranosyan/Gagik Yeranosyan/Programming/Microsoft/Projects/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/Starter.csproj",
+  "expectedPackageFiles": [
+    "/Users/yeranosyan/.nuget/packages/microsoft.netcore.app.ref/8.0.1/microsoft.netcore.app.ref.8.0.1.nupkg.sha512",
+    "/Users/yeranosyan/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512",
+    "/Users/yeranosyan/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.1/microsoft.netcore.app.host.osx-arm64.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
